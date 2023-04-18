@@ -13,7 +13,7 @@ A list of papers and sources for walking related accelerometer data analaysis. T
 - [[COMPUTATIONAL MACHANICS](https://link.springer.com/article/10.1007/s00466-023-02288-w)]A structure-preserving neural differential operator with embedded Hamiltonian constraints for modeling structural dynamics
 
 ### 2022
-
+- [[Nonlinear Dynamics](https://link.springer.com/article/10.1007/s11071-021-07118-3)] Parsimony as the ultimate regularizer for physics-informed machine learning
 ### 2021
 
 
