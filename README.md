@@ -11,6 +11,7 @@ A list of papers and sources for walking related accelerometer data analaysis. T
 
 ### 2023 
 - [[COMPUTATIONAL MACHANICS](https://link.springer.com/article/10.1007/s00466-023-02288-w)]A structure-preserving neural differential operator with embedded Hamiltonian constraints for modeling structural dynamics
+-[[Intelligent Medicine and Health Care](https://www.mdpi.com/2076-3417/13/5/3299)]  Cross-Platform Gait Analysis and Fall Detection Wearable Device 
 
 ### 2022
 - [[Nonlinear Dynamics](https://link.springer.com/article/10.1007/s11071-021-07118-3)] Parsimony as the ultimate regularizer for physics-informed machine learning
