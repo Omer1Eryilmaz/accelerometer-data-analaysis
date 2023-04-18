@@ -22,3 +22,14 @@ memristor-based convolutional neural network.
 - [[arxiv](https://arxiv.org/abs/2303.12557)] Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction.  
 - [[arxiv](https://arxiv.org/abs/2303.12270)] EBSR: Enhanced Binary Neural Network for Image Super-Resolution.  [__`bnn`__] 
 - [[arxiv](https://arxiv.org/abs/2303.15493)] Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis.  [__`bnn`__] 
+### 2022
+
+### 2021
+
+
+.
+.
+.
+### 2012
+-[[IEEE](https://ieeexplore.ieee.org/abstract/document/6338075)] Modeling Human Walking for Step Detection and Stride Determination by 3-Axis Accelerometer Readings in Pedometer
+
